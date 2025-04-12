@@ -1,0 +1,6 @@
+mentor_id,top_subjects,learning_style,mentor_college,years_of_experience,mentor_availability,mentoring_style,mentee_feedback_rating
+1,English|Logical Reasoning,Visual,National Law School of India University,2,Available,Structured Approach,4.5
+2,Logical Reasoning|Current Affairs,Auditory,National Academy of Legal Studies and Research,3,Available,Interactive Discussions,4.2
+3,Constitutional Law|International Law,Kinesthetic,National Law University Delhi,5,Not Available,Practical Application,4.7
+4,English|General Knowledge,Visual,National Law University Jodhpur,1,Available,Concept-Based Learning,4.0
+5,Logical Reasoning|Legal Aptitude,Auditory,National University of Juridical Sciences,4,Available,One-on-One Mentoring,4.6
