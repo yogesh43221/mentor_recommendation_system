@@ -76,7 +76,7 @@ source venv/bin/activate
 # Install dependencies
 pip install -r requirements.txt
 ```
-### 3. 3. Run the Scripts Locally
+### 3. Run the Scripts Locally
   * You can run the three Python scripts directly in your local VS Code terminal, which are:
   * scrape_courses.py: Scrapes course data from the specified sources (if applicable).
   * generate_embeddings.py: Generates embeddings for courses to facilitate recommendations.
